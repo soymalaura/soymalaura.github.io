@@ -1,0 +1,40 @@
+
+div.desc {
+  padding: 20px;
+  text-align: left;
+}
+div.gallery img {
+  width: 100%;  
+}
+
+.responsive {
+padding: 10px;
+width: 33.33%;
+float: left;
+}
+div.gallery {
+  border: 1px solid #ccc;
+  }
+  #boton{
+    background-color: white;
+    border: 2px solid #4caf50;
+    color: green;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+  #boton2{
+    background-color: blue;
+    color: white;
+    border: 2px solid white;
+    font-size: 16px;
+    margin: 4px 2px;
+    padding: 15px 32px;
+    border-radius: 12px;}
+
+    
