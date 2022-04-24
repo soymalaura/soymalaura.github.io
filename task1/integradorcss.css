@@ -1,0 +1,149 @@
+.navbar-nav.navbar-right {
+    position: absolute; 
+    right: 5%;
+   }
+
+   .button {
+    background-color: transparent; 
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    border: 2px solid white;
+ }
+  .button1 {
+    background-color: green; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    border: 2px solid green;
+  }
+  
+  .button2 {
+    background-color: yellow; 
+    border: none;
+    color: black;
+    padding: 10px ;
+    text-align: center;
+    display: inline-block;
+    font-size: 12px;
+    margin: 2px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    border: none;
+     }
+
+     .button3 {
+        background-color: rgb(68, 114, 173); 
+        border: none;
+        color: white;
+        padding: 10px ;
+        text-align: center;
+        display: inline-block;
+        font-size: 12px;
+        margin: 2px 2px;
+        cursor: pointer;
+        border-radius: 12px;
+        border: none;
+         }
+         .button4 {
+            background-color: grey; 
+            border: none;
+            color: white;
+            padding: 10px ;
+            text-align: center;
+            display: inline-block;
+            font-size: 12px;
+            margin: 2px 2px;
+            cursor: pointer;
+            border-radius: 12px;
+            border: none;
+             }
+    
+             .button5 {
+                background-color: tomato; 
+                border: none;
+                color: white;
+                padding: 10px ;
+                text-align: center;
+                display: inline-block;
+                font-size: 12px;
+                margin: 2px 2px;
+                cursor: pointer;
+                border-radius: 12px;
+                border: none;
+                 }
+
+                 .button6 {
+                    background-color: rgb(51, 214, 10); 
+                    border: none;
+                    color: white;
+                    padding: 10px ;
+                    text-align: center;
+                    display: inline-block;
+                    font-size: 20px;
+                    margin: 2px 2px;
+                    cursor: pointer;
+                    border-radius: 12px;
+                    
+                     }
+
+                     .button7 {
+                        background-color: transparent; 
+                        color: white;
+                        padding: 15px 32px;
+                        text-align: center;
+                        text-decoration: none;
+                        display: inline-block;
+                        font-size: 16px;
+                        margin: 4px 2px;
+                        cursor: pointer;
+                        border: none;
+                     }
+  
+
+  .card-img-top::after {
+    content:"";
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background:rgba(4, 0, 12, 0.6);
+  }
+  div.gallery img {
+    width: 100%;  
+  }
+  
+  .responsive {
+  padding: 10px;
+  width: 33.33%;
+  float: left;
+  }
+  div.gallery {
+    border: none;
+    }
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+      }
+      .card-img-top {
+        width: 100%;
+        height: 25vw;
+        object-fit: cover;
+    }
